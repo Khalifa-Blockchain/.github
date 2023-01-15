@@ -1,4 +1,4 @@
-# {Khalifa DeFi Suite}
+# {Khalifa DeFi}
 بِسْمِ اللَّهِ الرَّحْمَنِ الرَّحِيم
 <H1 align="right">
 Peaceful Hello!
