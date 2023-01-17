@@ -25,7 +25,7 @@ As-Salam Alaikum!!
 The Labs for building and maintaining our blockchain projects and our involvment in the blockchain ecosystem, particularly DeFi, Web3 Cloud, NFTs, etc. most especially in the *Setheum Ecosystem*.
 
 ## I ❤️ Khalifa
-**Khalifa Blockchain** is an initiative of **[Setheum Labs](https://github.com/Setheum Labs)** aiming to build Ethical DeFi solutions on the **Setheum Network** to bring Ethical Decentralized Finance to the masses.
+**Khalifa Blockchain** is an initiative of **[Setheum Labs](https://github.com/Setheum-Labs)** aiming to build Ethical DeFi solutions on the **Setheum Network** to bring Ethical Decentralized Finance to the masses.
 
 ### Organisations in Setheum Labs
 
