@@ -17,16 +17,19 @@ As-Salam Alaikum!!
 </H1>
 
 <p align="center">
-  <img src="https://github.com/Setheum-Labs/.github/blob/main/profile/SetheumLabsLabel.jpg" style="width:1300px" />
+  <img src="https://github.com/Khalifa-DeFi/.github/blob/main/profile/KhalifaLabel.jpg" style="width:1300px" />
 </p>
 
 # I ❤️ Setheum Labs
 **Setheum Labs** is a consortium of 2 Labs responsible for *Blockchain Research and Development*, these Labs are **[@Slixon-Technologies](https://github.com/Slixon-Technologies)** and **[@openweb3-foundation](https://github.com/openweb3-foundation)**. 
 The Labs for building and maintaining our blockchain projects and our involvment in the blockchain ecosystem, particularly DeFi, Web3 Cloud, NFTs, etc. most especially in the *Setheum Ecosystem*.
 
+## I ❤️ Khalifa
+**Khalifa Blockchain** is an initiative of **[Setheum Labs](https://github.com/Setheum Labs)** aiming to build Ethical DeFi solutions on the **Setheum Network** to bring Ethical Decentralized Finance to the masses.
+
 ### Organisations in Setheum Labs
 
-* [Khalifa DeFi](https://github.com/Khalifa-DeFi): Setheum's Ethical DeFi Suite of protocols. By **[@Setheum-Labs](https://github.com/Setheum-Labs)**.
+* [Khalifa Blockchain](https://github.com/Khalifa-Blockchain): Setheum's Ethical DeFi Suite of protocols. By **[@Setheum-Labs](https://github.com/Setheum-Labs)**.
 * [OpenWeb3 Foundation](https://github.com/Open-Web3-Foundation): Developing and Powering Open Web3 Internet Solutions, especially on Setheum.
 * [Setheum-Labs](https://github.com/Setheum-Labs): Blockchain R&D Labs developing the Setheum Ecosystem. By **[@Slixon-Technologies](https://github.com/Slixon-Technologies)** and **[@openweb3-foundation](https://github.com/openweb3-foundation)**
 
@@ -121,7 +124,7 @@ A collection of Setheum's Native Projects, Protocols et al. by Setheum Labs.
 
 ### Core Projects (Blockchains)
 * [Setheum](https://github.com/Setheum-Labs/Setheum): Powering Scalable Web3 Solutions. Setheum's EVM compatible Turing Complete L1 blockchain.
-* [Khalifa DeFi](https://github.com/Khalifa-DeFi): Setheum's Ethical DeFi Optimized Subchain, a Layer-2 Blockchain on the Setheum Network.
+* [Khalifa Blockchain](https://github.com/Khalifa-Blockchain): Setheum's Ethical DeFi Optimized Subchain, a Layer-2 Blockchain on the Setheum Network.
 
 ### Smart Contracts (A-Z)
 
