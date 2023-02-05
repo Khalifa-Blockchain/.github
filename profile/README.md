@@ -30,7 +30,7 @@ The Labs for building and maintaining our blockchain projects and our involvment
 ### Organisations in Setheum Labs
 
 * [Khalifa Blockchain](https://github.com/Khalifa-Blockchain): Setheum's Ethical DeFi Suite of protocols. By **[@Setheum-Labs](https://github.com/Setheum-Labs)**.
-* [OpenWeb3 Foundation](https://github.com/Open-Web3-Foundation): Developing and Powering Open Web3 Internet Solutions, especially on Setheum.
+* [OpenWeb3 Foundation](https://github.com/openweb3-foundation): Developing and Powering Open Web3 Internet Solutions, especially on Setheum.
 * [Setheum-Labs](https://github.com/Setheum-Labs): Blockchain R&D Labs developing the Setheum Ecosystem. By **[@Slixon-Technologies](https://github.com/Slixon-Technologies)** and **[@openweb3-foundation](https://github.com/openweb3-foundation)**
 
 <p align="center">  
